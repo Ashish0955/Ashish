@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lakhansingh-git-master-lakhan0007.vercel.app/](https://lakhansingh-git-master-lakhan0007.vercel.app/)
 
-- 📫 How to reach me **lakhansinghrathore2001@gmail.com**
+- 📫 How to reach me **ashishsharma0955@gmail.com**
 
 - ⚡ Fun fact **I always prefer dark mode. Because light attracts bugs!**
 - <br>
@@ -23,10 +23,10 @@
 <h2 align="left">
 ## 2. Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/lakhans32785896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakhans32785896" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lakhan singh rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakhan singh rathore" height="30" width="40" /></a>
-<a href="https://fb.com/lakhan singh rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lakhan singh rathore" height="30" width="40" /></a>
-<a href="https://instagram.com/lakha_n0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakha_n0007" height="30" width="40" /></a>
+<a href="https://twitter.com/AshishS46515101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakhans32785896" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashish-sharma-b99581231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakhan singh rathore" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ashishsharma0955/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lakhan singh rathore" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ashishsharma0955/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakha_n0007" height="30" width="40" /></a>
 </p>
 <br>
 
@@ -42,13 +42,13 @@
 
 <h2>## 4. ❤ Views and Followers<h2>
 <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=lakhan0007&label=Profile%20views&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=Ashish0955&label=Profile%20views&color=0e75b6&style=flat">
 </a>
-<a href="#"><img src="https://img.shields.io/github/followers/lakhan0007?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="#"><img src="https://img.shields.io/github/followers/Ashish0955?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <h2>## 5. 📊 Github Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakhan0007&show_icons=true&locale=en&layout=compact" alt="lakhan0007" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashish0955&show_icons=true&locale=en&layout=compact" alt="Ashish0955" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakhan0007&show_icons=true&locale=en" alt="lakhan0007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashish0955&show_icons=true&locale=en" alt="Ashish0955" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakhan0007&" alt="lakhan0007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish0955&" alt="Ashish0955" /></p>
