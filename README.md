@@ -1,4 +1,4 @@
-![logo](https://github.com/lakhan0007/lakhan0007/blob/main/ani.png)
+![logo](https://ashish0955.github.io/Ashish0955/)
 <h1 align="center">Hi 👋, My self  Ashish sharma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
