@@ -1,4 +1,5 @@
-![logo](https://ashish0955.github.io/Ashish0955/)
+<a href="#"><img width="100%" height="50%" src="https://blog2opstree.files.wordpress.com/2021/02/hdadrmia.gif" height="50px"/></a>
+
 <h1 align="center">Hi 👋, My self  Ashish sharma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
