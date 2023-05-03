@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m working on **school mangement project **
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at https://portfolio-beige-pi-90.vercel.app/
 - 
 - 📫 How to reach me **ashishsharma0955@gmail.com**
 
